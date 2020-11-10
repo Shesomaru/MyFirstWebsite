@@ -1,0 +1,97 @@
+
+body {
+    
+    background-image: url(/assets/topography.png);
+    font-family: consolas;
+    font-size: 16px;
+    line-height: 2;
+    
+    
+   
+}
+h3{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+    
+
+
+h1{
+    font-family: Anton;
+    font-size: 300%;
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+h2{
+    font-family: Anton;
+    text-align: left;
+    color: #ff0099;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
+.h2a{
+    color: black;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+
+    
+
+
+}
+p{
+    font-size: medium;
+    font-style: inherit;
+    font-variant: initial;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.harompont {
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+ul {
+     background-color: #333333;
+    color: #ff0099;
+    padding-left: 10%;
+    padding-right: 10%;
+     
+    
+    
+}
+.lista  ul{
+
+ text-align: left;   
+ padding-top: 10px; 
+ padding-left: 10%;
+    padding-right: 10%;
+    
+  
+    
+}
+.lista li {
+    display: inline;
+    text-decoration: underline;
+    padding-right: 20px;
+}
+
+.lista li:first-child {
+    
+    padding-right: 1100px;
+    }
+
+    
+
+
+a{
+    padding-left: 10%;
+    padding-right: 10%;
+    color: #ff0099;
+}
